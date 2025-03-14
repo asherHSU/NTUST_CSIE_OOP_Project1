@@ -1,0 +1,3 @@
+C:/school/SchoolProgram/C++/Project1/Plumber/project/CMakeFiles/Plumber.dir
+C:/school/SchoolProgram/C++/Project1/Plumber/project/CMakeFiles/ALL_BUILD.dir
+C:/school/SchoolProgram/C++/Project1/Plumber/project/CMakeFiles/ZERO_CHECK.dir

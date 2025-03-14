@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\school\SchoolProgram\C++\Project1\Plumber\src\Plumber.h(127,21): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+C:\school\SchoolProgram\C++\Project1\Plumber\src\Plumber.h(136,21): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+C:\school\SchoolProgram\C++\Project1\Plumber\src\main.cpp(68,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  Plumber.vcxproj -> C:\school\SchoolProgram\C++\Project1\Plumber\project\Debug\Plumber.exe
